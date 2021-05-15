@@ -1,0 +1,8 @@
+ul a{
+    float: right;
+    margin: 7px;
+    text-decoration: none;
+}
+li::marker{
+    font-size: 0;
+}
